@@ -3,7 +3,7 @@ apply plugin: 'jacoco'
 apply plugin: 'application'
 
 
-mainClassName = 'TugasPBO12.PBO610119918Latihan12Aritmatika'
+mainClassName = 'TugasPBO12.PBO10K10119918Latihan12Aritmatika'
 
 repositories {
     jcenter()

@@ -7,9 +7,15 @@ package TugasPBO12;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk menampilkan hasil 
+ * aritmatika
+ * 
  */
-public class PBO610119918Latihan12Aritmatika {
+public class PBO10K10119918Latihan12Aritmatika {
 
     /**
      * @param args the command line arguments
